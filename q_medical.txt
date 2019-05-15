@@ -1,0 +1,4 @@
+Are you suffering from any medical condition and do you think that your depression is direct consequence of this?
+
+0 for NO
+1 for YES

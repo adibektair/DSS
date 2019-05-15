@@ -1,0 +1,4 @@
+Do you think that these symptoms developed soon after substance intoxication or withdrawal?
+
+0 for NO
+1 for YES

@@ -1,0 +1,4 @@
+Are you suffering from depressive symptoms for at least 2 weeks?
+
+0 for NO
+1 for YES

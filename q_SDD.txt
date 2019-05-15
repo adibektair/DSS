@@ -1,0 +1,4 @@
+Are you experiencing depressive symptoms for at least 4 to 13 days, but not every month.
+
+0 for NO
+1 for YES

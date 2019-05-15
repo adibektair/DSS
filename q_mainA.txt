@@ -1,0 +1,4 @@
+Are you feeling down, depressed or sad?
+
+0 for NO
+1 for YES

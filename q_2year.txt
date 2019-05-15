@@ -1,0 +1,4 @@
+Are you suffering from depressive symptoms since more than 2 years?
+
+0 for NO
+1 for YES

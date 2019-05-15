@@ -1,0 +1,4 @@
+Do you feel lack of interest or pleasure in doing things?
+
+0 for NO
+1 for YES

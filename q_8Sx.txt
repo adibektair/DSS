@@ -1,0 +1,13 @@
+1 Significant weight loss when not dieting or weight gain or decrease or increase in appetite
+2 Insomnia or hypersomnia
+3 Psychomotor agitation or retardation
+4 Fatigue or loss of energy
+5 Feelings of worthlessness or excessive or inappropriate guilt
+6 Diminished ability to think or concentrate, or indecisiveness
+7 Recurrent thoughts of death (not just fear of dying)
+8 Recurrent suicidal ideation without a specific plan, or suicide attempt or specific plan for committing suicide.
+
+Do you have atleast 5 among the 8 above symptoms?
+
+0 for NO
+1 for YES
